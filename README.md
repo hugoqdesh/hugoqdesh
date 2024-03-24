@@ -12,7 +12,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🌱 I’m currently learning JS.
-- 🥅 2023 Goals: Build awesome projects
+- 🥅 2024 Goals: Build awesome projects
 - 💬 Ask me any questions :smile:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love meeting new different people :raised_hands:
