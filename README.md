@@ -12,6 +12,6 @@ The stack i work with mostly is the following: [Nextjs](https://nextjs.org/) , [
 
 ## 📫 Contact
 
-For a fast response, please DM me on Discord: hugoqdesh or [Instagram](https://instagram.com/hugoqdesh)
+For a fast response, please DM me on Discord: hugoqdesh
 
 Any other queries you can contact me via my website: [hugoqdesh.vercel.app](https://hugoqdesh.vercel.app)
