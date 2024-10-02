@@ -1,10 +1,10 @@
 ### Hey, I'm Hugo 👋
 
-A 16 year old full-stack developer
+A 17 year old full-stack developer
 
 ## ⚡️ Current
 
-Currently working on building [digestify](https://digestify.vercel.app)
+Currently working on building [BuildUp](demo-buildup.vercel.app)
 
 ## 💎 Tech Stack
 
