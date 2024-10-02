@@ -4,7 +4,7 @@ A 17 year old full-stack developer
 
 ## ⚡️ Current
 
-Currently working on building [BuildUp](demo-buildup.vercel.app)
+Currently working on building [BuildUp](https://demo-buildup.vercel.app)
 
 ## 💎 Tech Stack
 
