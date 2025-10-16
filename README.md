@@ -1,15 +1,3 @@
-I'm Hugo and i'm full stack web / app developer.
-
-I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible.
-
-#### TECH STACK
-
-JAVA / JAVASCRIPT / TYPESCRIPT / NODE JS / HTML / CSS / TAILWIND / NEXT JS / REACT / NUXT / VUE / MONGODB / POSTGRESQL
-
-> I have always been hard working and goal's focused.
-
----
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=hugoqdesh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoqdesh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
