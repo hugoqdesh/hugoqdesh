@@ -2,11 +2,11 @@ I'm Hugo and i'm full stack web / app developer.
 
 I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible.
 
-I have always been hard working and goal's focused.
-
 #### TECH STACK
 
 JAVA / JAVASCRIPT / TYPESCRIPT / NODE JS / HTML / CSS / TAILWIND / NEXT JS / REACT / NUXT / VUE / MONGODB / POSTGRESQL
+
+> I have always been hard working and goal's focused.
 
 ---
 
