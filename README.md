@@ -2,6 +2,4 @@
 
 # ahoy~!! i'm `hugoqdesh`~!!
 
-I’m a `estonia`-based engineer passionate about building thoughtful, user-focused web applications and open-source tools.
-
-i use arch and vim btw
+Professional fuckarounder who builds product systems across frontend and backend with a practical, outcomes-first approach.
